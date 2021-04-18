@@ -11,3 +11,5 @@ https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html#licen
 3. The used Chrome browser version is Version 89.0.4389.128. So the chrome browser must be 89.
 
 4. To run the project, click on >> Liwwa/Liwwa >> src/main/java/LiwwaRun >> LiwwaClass.java
+
+** Results of the steps are printed on the Eclipse console!
